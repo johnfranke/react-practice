@@ -24,7 +24,8 @@
 
 .hero h1, .hero h2 {
   color: white;
-  margin-left: 40px;
+  text-justify: left;
+  /* margin-left: 40px; */
 }
 
 .hero h1 {
