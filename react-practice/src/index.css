@@ -11,3 +11,16 @@ div[data-reactroot] {
   padding: 0;
   margin: 0;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+  /* margin: 20px; */
+}
+
+.title {
+  margin-left: 20px;
+}
+
+.headline {
+  margin-left: 20px;
+}
